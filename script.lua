@@ -13,7 +13,7 @@ Frame.BackgroundTransparency = 0.3
 
 TextLabel.Parent = Frame
 TextLabel.Size = UDim2.new(1, 0, 1, 0)
-TextLabel.Text = "Você foi baitado hohoho"
+TextLabel.Text = "Muito burro mds"
 TextLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
 TextLabel.TextScaled = true
 TextLabel.Font = Enum.Font.SourceSansBold
